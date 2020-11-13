@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working as..**
+  🔭 **I’m currently working as..**
   
   an Front-End Developer using Vue.js ([resume](https://www.notion.so/EUNHEE-JU-DEVELOPER-11d8a0c171b34a94b1281d0b12f44639))
   
-- 📫 **How to reach me:**
+  📫 **How to reach me:**
 
   charmjeh@gmail.com
 
-- 📚 Languages That I Know
+  📚 **Languages That I Know**
 
   #### Backend
   ![Node.js](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white&style=flat-square)
