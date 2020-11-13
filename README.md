@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working as an Front End Engineer using Vue.js
+🔭 I’m currently working as an Front-End Developer using Vue.js
 
 📚 Languages
 
   #### Backend
   ![Node.js](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white&style=flat-square)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat)
   ![Express](https://img.shields.io/badge/Express-F66600?logo=Express&logoColor=white&style=flat)
 
@@ -28,13 +27,12 @@
   ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat)
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=flat)
 
   #### Under Study
   ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat)
   ![mongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=MongoDB&logoColor=white&style=flat)
-
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=flat)
 
 <!--
 **charmjeh/charmjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
