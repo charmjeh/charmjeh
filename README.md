@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-  🔭 **I’m currently working as** : an Front-End Developer using Vue.js ([이력서](https://www.notion.so/EUNHEE-JU-DEVELOPER-11d8a0c171b34a94b1281d0b12f44639) / [RESUME](https://docs.google.com/document/d/1Xd0x5YsbDN0sg3KHkCGFG_XrKxdnaBIljv0lOS2F3zw/edit?usp=sharing) )
-  
-  📫 **How to reach me** :  charmjeh@gmail.com
+📫 **How to reach me** :  charmjeh@gmail.com
 
  😄 **What I Use Mostly** : 
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
